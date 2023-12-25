@@ -1,0 +1,17 @@
+build
+dist
+/media
+node_modules
+.DS_Store
+.env
+.next
+.vercel
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+coverage
+.npm
+.node_repl_history
